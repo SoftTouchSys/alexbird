@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/alexbird/static/css/main.d5683e22.css",
+    "main.js": "/alexbird/static/js/main.c54ecf09.js",
+    "static/media/BreezeContent1.gif": "/alexbird/static/media/BreezeContent1.6d48d748585cfdc72c08.gif",
+    "static/media/BreezeContent2.gif": "/alexbird/static/media/BreezeContent2.081fac8fd6fccb972889.gif",
+    "static/media/StyleGuide.png": "/alexbird/static/media/StyleGuide.020bb51a4ca7474f5bd8.png",
+    "static/media/PetGift.png": "/alexbird/static/media/PetGift.06b05e9dbfab632f3a5d.png",
+    "static/media/BabyGift.png": "/alexbird/static/media/BabyGift.950479943c32dccdd2fd.png",
+    "static/media/Short_2_About.gif": "/alexbird/static/media/Short_2_About.74d44ea490ac5b97706a.gif",
+    "static/media/CarSeat1.png": "/alexbird/static/media/CarSeat1.58b910e63c0c94c5e44a.png",
+    "static/media/Coffee2.png": "/alexbird/static/media/Coffee2.1e8340d98df10ccc5248.png",
+    "static/media/CarSeat2.png": "/alexbird/static/media/CarSeat2.e325dae1dc4cc47e8acd.png",
+    "static/media/Coffee1.png": "/alexbird/static/media/Coffee1.07aacc306341f6519930.png",
+    "static/media/WizardSidequest.png": "/alexbird/static/media/WizardSidequest.f62d2dcb1a26428b2888.png",
+    "static/media/BreezeContent3.gif": "/alexbird/static/media/BreezeContent3.02b1c8778456fd980747.gif",
+    "static/media/CarSeat3.png": "/alexbird/static/media/CarSeat3.075adfaa6353a9f88713.png",
+    "static/media/BreezeProduct2.png": "/alexbird/static/media/BreezeProduct2.9fdd040ac0a5a0478faa.png",
+    "static/media/Coffee3.png": "/alexbird/static/media/Coffee3.9d1ee79659e79dcb71e1.png",
+    "static/media/BreezeProduct3.png": "/alexbird/static/media/BreezeProduct3.a4e5a71f2b33e83d8fa7.png",
+    "static/media/eko video embed-8.png": "/alexbird/static/media/eko video embed-8.06a5a7fbab6b75a3f8d1.png",
+    "static/media/BreezeProduct1.png": "/alexbird/static/media/BreezeProduct1.6ce26e134aabb159d824.png",
+    "static/media/Bird-1.svg": "/alexbird/static/media/Bird-1.6f113d3a7140ad338f5c.svg",
+    "static/media/Bird-6.svg": "/alexbird/static/media/Bird-6.1ef9cc96c706d2d587ef.svg",
+    "static/media/Nav-btn-desktop.svg": "/alexbird/static/media/Nav-btn-desktop.4203ea0c1c90c981f2c2.svg",
+    "static/media/Bird-Flight-Dark.svg": "/alexbird/static/media/Bird-Flight-Dark.444a44332c1bf589db2f.svg",
+    "static/media/Bird-2.svg": "/alexbird/static/media/Bird-2.3429cc1a9ac331277803.svg",
+    "static/media/Bird-5.svg": "/alexbird/static/media/Bird-5.a099caf0edfda7442141.svg",
+    "index.html": "/alexbird/index.html",
+    "main.d5683e22.css.map": "/alexbird/static/css/main.d5683e22.css.map",
+    "main.c54ecf09.js.map": "/alexbird/static/js/main.c54ecf09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5683e22.css",
+    "static/js/main.c54ecf09.js"
+  ]
+}
